@@ -1,0 +1,11 @@
+# Database
+*.db
+
+# Temporary files
+temp_image.jpg
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
